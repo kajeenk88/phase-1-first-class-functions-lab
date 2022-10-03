@@ -1,1 +1,2 @@
-// Code your solution in this file!
+returnFirstTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])
+// => ['Antonia', 'Nuru']
